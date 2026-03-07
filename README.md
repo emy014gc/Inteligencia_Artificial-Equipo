@@ -1,2 +1,2 @@
-# Inteligencia_Artificial-Equipo
+# Actividades - Equipo
 Actividades en equipo 
